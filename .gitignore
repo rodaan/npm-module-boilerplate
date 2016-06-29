@@ -1,0 +1,8 @@
+# Ignore Dist folder
+dist
+
+# Ignore npm modules
+node_modules
+
+# Misc Files
+npm-debug.log
